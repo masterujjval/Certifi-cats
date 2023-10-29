@@ -1,29 +1,28 @@
 # Certifi-cats
 
-Collection of certificates which i have acheived during the course of learning and trying out new things and technologies.
-
+My Achievements in the field of technology and trying out new things to expand my perspective and knowledge. 
 ## About
 
-[Flipkart](/Acheivements/Flipkart.pdf) - Our team of 4 students participated in the hackathon Flipkart GRID 5.0 organised by Flipkart on unstop plateform. 
+[Flipkart](/Achievements/Flipkart.pdf) - Our team of 4 students participated in the hackathon Flipkart GRID 5.0 organized by Flipkart on the unstop platform. 
 
-[IoT badge](/Acheivements/Skillsoft_badge.png) - Successfully completed the infosys springboard course on IoT and achieved the badge of course completion. Learn about IoT protocol and various transmission methods used in establishing connection between IoT devices.
+[IoT badge](/Achievements/Skillsoft_badge.png) - Successfully completed the Infosys springboard course on IoT and achieved the badge of course completion. Learn about IoT protocol and various transmission methods used in establishing connections between IoT devices.
 
-[IoT certificate](/Acheivements/infosys-course.pdf) - Succeessfully completed the course on IoT and acheived the certificate from Infosys.
+[IoT certificate](/Achievements/infosys-course.pdf) - Successfully completed the course on IoT and achieved the certificate from Infosys.
 
-[GFG Google Cloud](/Acheivements/google-cloud.pdf) - Successfully attended and completed Google cloud labs. The program had been organised by GFG and had duration for about 1 month.
+[GFG Google Cloud](/Achievements/google-cloud.pdf) - Successfully attended and completed Google Cloud labs. The program was organized by GFG and had a duration of about 1 month.
 
-[SQL](/Acheivements/SQL.pdf) - Attended and done hands on practise with SQL queries to understand the working of database and use cases of SQL queries. Have hands on practise and knowledge of PostgreSQL here is the project i have created use Postgres as Database [Postgres Project](https://github.com/masterujjval/Register-Login-Update.website).
+[SQL](/Achievements/SQL.pdf) - Attended and did hands-on practice with SQL queries to understand the workings of databases and use cases of SQL queries. Have hands-on practice and knowledge of PostgreSQL here is the project I have created using Postgres as a Database [Postgres Project](https://github.com/masterujjval/Register-Login-Update.website).
 
-[Intern at Ram Raj Tech](/Acheivements/ramrajtech.pdf) - Completed 3-months intership at Ram Raj Tech and worked on the real life project. Learn alot from that internship got real live work exposure, dealt with real life world problem while working on the project.
+[Intern at Ram Raj Tech](/Achievements/ramrajtech.pdf) - Completed 3-month internship at Ram Raj Tech and worked on a real-life project. I learned a lot from that internship got real-life work exposure, and dealt with real-life world problems while working on the project.
 
-[Intern at Edunet (Offerletter)](/Acheivements/offer-letter-cybersecurity-EDUNET.pdf) - 6 Weeks intership at Edunet as cybersecurity intern and worked on a project to create a cipher algorithm. The other project was to make a project to encrypt secret text in an image and use same algorithm for decryption using the same key or so called symmetric key.
+[Intern at Edunet (Offerletter)](/Achievements/offer-letter-cybersecurity-EDUNET.pdf) - 6 Weeks internship at Edunet as a cybersecurity intern and worked on a project to create a cipher algorithm. The other project was to make a project to encrypt secret text in an image and use the same algorithm for decryption using the same key or so-called symmetric key.
 
-[C++ Masterclass](/Acheivements/Cpp-letsupgrade.pdf) - Attended and learn many great things in this 5 days masterclass on C++. The session was great and practicals were splendid.
+[C++ Masterclass](/Achievements/Cpp-letsupgrade.pdf) - Attended and learned many great things in this 5 days masterclass on C++. The session was great and the practicals were splendid.
 
-[SnapChat Hackathon](/Acheivements/Hack2skill-Certificate.png) - Participated in the Lensathon organised by SnapChat and develope a lens for it using Snap AR studio. [Project Link](https://github.com/masterujjval/snap_lens) check this out to know more about the project we have worked on.
+[SnapChat Hackathon](/Achievements/Hack2skill-Certificate.png) - Participated in the Lensathon organized by SnapChat and developed a lens for it using Snap AR studio. [Project Link](https://github.com/masterujjval/snap_lens) Check this out to know more about the project we have worked on.
 
 
-[Meta Hacker Cup](/Acheivements/Meta-hacker-cup-2023.pdf) -  Participated in the Meta Hacker cup 2023 and achieved 6,339th rank out of 20000+ participants from around the world.
+[Meta Hacker Cup](/Achievements/Meta-hacker-cup-2023.pdf) -  Participated in the Meta Hacker Cup 2023 and achieved 6,339th rank out of 20000+ participants from around the world.
 
 
 
