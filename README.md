@@ -24,7 +24,7 @@ My Achievements in the technology field and trying out new things to expand my p
 
 [Meta Hacker Cup](/Achievements/Meta-hacker-cup-2023.pdf) -  Participated in the Meta Hacker Cup 2023 and achieved 6,339th rank out of 20000+ participants from around the world.
 
-[Postman Badege](Postman-badge.png) and [Postman Certificate](LUEPAFSOCT123104.pdf) - Completed the workshop on postman. Submitted and learn the working and fundamentals of the postman.
+[Postman Badge](Postman-badge.png) and [Postman Certificate](LUEPAFSOCT123104.pdf) - Completed the workshop on postman. Submitted and learn the working and fundamentals of the postman.
 
 
 
