@@ -26,9 +26,5 @@ My Achievements in the field of technology and trying out new things to expand m
 
 [Postman Badege](Postman-badge.png) and [Postman Certificate](LUEPAFSOCT123104.pdf) - Successfully completed the workshop on postman. Submitted and learn the working and fundamentals of postman.
 
-<<<<<<< HEAD
-[Accenture Innovatice Challenge](/Acheivements/Accenture.pdf) - Certificate of successfully participating in Accenture Innovative challenge. Learned about business management and how e-commerce works and what issues they face.  
-=======
 [Accenture Innovative Challenge](/Achievements/Accenture.pdf) - Certificate for successfully participating in Accenture Innovative challenge and submitting an entry that's an idea to reinvent the business industry. 
->>>>>>> 047d38adeb9e3743617c0f6c4aaad986cf1ef2a3
 
