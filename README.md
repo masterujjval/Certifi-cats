@@ -1,13 +1,13 @@
 # Certifi-cats
 
-My Achievements in the field of technology and trying out new things to expand my perspective and knowledge. 
+My Achievements in the technology field and trying out new things to expand my perspective and knowledge. 
 ## About
 
 [Flipkart](/Achievements/Flipkart.pdf) - Our team of 4 students participated in the hackathon Flipkart GRID 5.0 organized by Flipkart on the unstop platform. 
 
-[IoT badge](/Achievements/Skillsoft_badge.png) - Successfully completed the Infosys springboard course on IoT and achieved the badge of course completion. Learn about IoT protocol and various transmission methods used in establishing connections between IoT devices.
+[IoT badge](/Achievements/Skillsoft_badge.png) - Completed the Infosys springboard IoT course and achieved the course completion badge. Learn about IoT protocol and various transmission methods used in establishing connections between IoT devices.
 
-[IoT certificate](/Achievements/infosys-course.pdf) - Successfully completed the course on IoT and achieved the certificate from Infosys.
+[IoT certificate](/Achievements/infosys-course.pdf) - Completed the course on IoT and achieved the certificate from Infosys.
 
 [GFG Google Cloud](/Achievements/google-cloud.pdf) - Successfully attended and completed Google Cloud labs. The program was organized by GFG and had a duration of about 1 month.
 
@@ -24,7 +24,14 @@ My Achievements in the field of technology and trying out new things to expand m
 
 [Meta Hacker Cup](/Achievements/Meta-hacker-cup-2023.pdf) -  Participated in the Meta Hacker Cup 2023 and achieved 6,339th rank out of 20000+ participants from around the world.
 
-[Postman Badege](Postman-badge.png) and [Postman Certificate](LUEPAFSOCT123104.pdf) - Successfully completed the workshop on postman. Submitted and learn the working and fundamentals of postman.
+[Postman Badege](Postman-badge.png) and [Postman Certificate](LUEPAFSOCT123104.pdf) - Completed the workshop on postman. Submitted and learn the working and fundamentals of the postman.
 
-[Accenture Innovative Challenge](/Achievements/Accenture.pdf) - Certificate for successfully participating in Accenture Innovative challenge and submitting an entry that's an idea to reinvent the business industry. 
+[Accenture Innovative Challenge](/Achievements/Accenture.pdf) - Certificate for successfully participating in the Accenture Innovative challenge and submitting an entry that's an idea to reinvent the business industry. 
+
+
+[IBM Internship Completion Certificate.pdf](https://github.com/masterujjval/Certifi-cats/files/13820412/AICTE.B3.PBLD.1-897-826.pdf) - Completed the internship at IBM collaborated with AICTE. Learned and gained knowledge and exposure with industry experts. 
+
+
+
+
 
